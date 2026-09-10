@@ -1,0 +1,10 @@
+code
+JSON
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://ais-pre-lwp4fkjhszi66rodjuji3h-372193405214.europe-west2.run.app/$1"
+    }
+  ]
+}
